@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+:root {
+  --white: #ffffff;
+  --black: #252b42;
+  --orange: #fa4a0c;
+  --orange-dark: #cc5200;
+  --white_text: #f6f6f6;
+}
