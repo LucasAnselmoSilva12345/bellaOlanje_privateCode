@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Bella Olanje é um site onde voc~e tem uma variedades de cardapios, com varios pratos a sua disposição, para voc~e saborear e matar a sua fome.
+O Bella Olanje é um site onde voc~e tem uma variedades de cardapios, com varios pratos a sua disposição, para você saborear e matar a sua fome.
 
 <p align="center" width="100%">
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/51029682776/in/dateposted-public/" title="Computador_Bella"><img src="https://live.staticflickr.com/65535/51029682776_cfb1bfd1ea_b.jpg" width="1024" height="576" alt="Computador_Bella"></a>
@@ -36,3 +36,7 @@ Lucas Anselmo Moraes Da Silva - Projeto desenvolvido para teste na empresa Priva
 
 <a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
+
+## 👩🏿‍💻 Como executar a aplicação
+
+Abra o seu terminal, na pasta onde deseje salvar a aplicação, e digite no terminal "git clone 'link do projeto'", após esse processo, acesse a pasta do projeto, pelo seu editor de código, e digite no terminal integrado "yarn install", após as dependências serem instaladas, digite "yarn start", dai a aplicação, irá começar a funcionar, em ambiente de desenvolvimento.
